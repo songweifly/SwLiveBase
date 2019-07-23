@@ -39,9 +39,9 @@
 
 ### Java/J2EE 基础
 
-* [Java 基础知识回顾](https://github.com/Snailclimb/Java-Guide/blob/master/Java相关/Java基础知识.md)
-* [J2EE 基础知识回顾](https://github.com/Snailclimb/Java-Guide/blob/master/Java相关/J2EE基础知识.md)
-* [Java常见关键字总结：static、final、this、super](https://github.com/Snailclimb/Java-Guide/blob/master/Java相关/final、static、this、super.md)
+* [Java 基础知识回顾](https://github.com/songweifly/SwLiveBase/blob/master/Java平台/Java基础/Java基础知识.md)
+* [J2EE 基础知识回顾](https://github.com/songweifly/SwLiveBase/blob/master/Java平台/Java基础/J2EE基础知识.md)
+* [Java常见关键字总结：static、final、this、super](https://github.com/songweifly/SwLiveBase/blob/master/Java平台/Java基础/final、static、this、super.md)
 
 ### Java 集合框架
 
