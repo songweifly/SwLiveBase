@@ -48,6 +48,8 @@
 
 * [BIO,NIO,AIO 总结 ](https://github.com/songweifly/SwLiveBase/blob/master/Java%E5%B9%B3%E5%8F%B0/Java%E5%9F%BA%E7%A1%80/BIO%2CNIO%2CAIO%20summary.md)
 * [Java IO 与 NIO系列文章](https://github.com/songweifly/SwLiveBase/blob/master/Java平台/Java基础/Java%20IO与NIO.md)
+* [synchronized](https://github.com/songweifly/SwLiveBase/blob/master/Java平台/Java基础/synchronized.md)
+
 
 ### 设计模式
 
@@ -74,6 +76,7 @@
 
 * [BATJ都爱问的多线程面试题](https://github.com/songweifly/SwLiveBase/blob/master/Java平台/多线程/BATJ都爱问的多线程面试题.md)
 * [并发容器总结](https://github.com/songweifly/SwLiveBase/blob/master/Java平台/多线程/并发容器总结.md)
+* [多线程系列](https://github.com/songweifly/SwLiveBase/blob/master/Java平台/多线程/多线程系列.md)
 
 
 

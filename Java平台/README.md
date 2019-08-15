@@ -10,7 +10,7 @@
   * [多线程](#多线程)
   * [设计模式](#设计模式)
 
- 
+
 ### Java基础
 * [Java 基础知识回顾](https://github.com/songweifly/SwLiveBase/blob/master/Java平台/Java基础/Java基础知识.md)
 * [J2EE 基础知识回顾](https://github.com/songweifly/SwLiveBase/blob/master/Java平台/Java基础/J2EE基础知识.md)
@@ -29,6 +29,7 @@
 
 * [BIO,NIO,AIO 总结 ](https://github.com/songweifly/SwLiveBase/blob/master/Java%E5%B9%B3%E5%8F%B0/Java%E5%9F%BA%E7%A1%80/BIO%2CNIO%2CAIO%20summary.md)
 * [Java IO 与 NIO系列文章](https://github.com/songweifly/SwLiveBase/blob/master/Java平台/Java基础/Java%20IO与NIO.md)
+* [synchronized](https://github.com/songweifly/SwLiveBase/blob/master/Java平台/Java基础/synchronized.md)
 
 ### 设计模式
 
@@ -48,10 +49,9 @@
 
 ### 多线程
 * [并发编程面试必备：synchronized 关键字使用、底层原理、JDK1.6 之后的底层优化以及 和ReenTrantLock 的对比](https://github.com/songweifly/SwLiveBase/blob/master/Java平台/多线程/synchronized.md)
-
 * [并发编程面试必备：乐观锁与悲观锁](https://github.com/songweifly/SwLiveBase/blob/master/Java平台/多线程/面试必备之乐观锁与悲观锁.md)
 * [并发编程面试必备：JUC 中的 Atomic 原子类总结](https://github.com/songweifly/SwLiveBase/blob/master/Java平台/多线程/Atomic.md)
 * [并发编程面试必备：AQS 原理以及 AQS 同步组件总结](https://github.com/songweifly/SwLiveBase/blob/master/Java平台/多线程/AQS.md)
-
 * [BATJ都爱问的多线程面试题](https://github.com/songweifly/SwLiveBase/blob/master/Java平台/多线程/BATJ都爱问的多线程面试题.md)
 * [并发容器总结](https://github.com/songweifly/SwLiveBase/blob/master/Java平台/多线程/并发容器总结.md)
+* [多线程系列](https://github.com/songweifly/SwLiveBase/blob/master/Java平台/多线程/多线程系列.md)
