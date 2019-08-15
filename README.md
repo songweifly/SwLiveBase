@@ -1,12 +1,6 @@
 # SwLiveBase 学习平台
 
 
-
-## 阅读说明
-1. 。
-2. 。
-3. 。
-
 ## 目录
 
 * [C/C++平台](#C/C++平台)
@@ -84,14 +78,15 @@
 
 
 
-## C/C++平台
-* [C/C++基础]()
-* [Windows API]()
-* [Windows 服务]()
-* [MFC开发框架]()
-* [COM组件技术]()
-* [COBRA组件技术]()
-* [OPENGL API]()
+## C/C++平
+### C/C++基础
+* []()
+### Windows API
+### Windows 服务
+### MFC开发框架
+### COM组件技术
+### COBRA组件技术
+### OPENGL API
 
 
 
